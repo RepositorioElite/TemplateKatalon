@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Dear JuanEsteban,</name>
+   <tag></tag>
+   <elementGuidId>b6e446d6-60ba-472a-996a-bd23c515e7b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//font/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>font > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>8e99b62b-e03c-457e-b607-15534b898beb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Dear Juan Esteban,</value>
+      <webElementGuid>4e26dda9-bb73-4a85-a2e6-0d298344d30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[4]/td[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[3]/td[1]/p[1]/font[1]/b[1]</value>
+      <webElementGuid>7f7eea5e-4a1c-4520-88ad-70af4f8e6205</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//font/b</value>
+      <webElementGuid>c54068d2-86ed-473a-95cd-e8e5cb004a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = ' Dear Juan Esteban,' or . = ' Dear Juan Esteban,')]</value>
+      <webElementGuid>36f769b0-6472-4412-bb53-4794e866251a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
